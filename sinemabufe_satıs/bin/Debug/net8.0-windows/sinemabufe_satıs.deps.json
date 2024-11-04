@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "sinemabufe_satıs/1.0.0": {
+        "runtime": {
+          "sinemabufe_satıs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sinemabufe_satıs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
